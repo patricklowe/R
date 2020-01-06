@@ -1,8 +1,8 @@
 # R
 R code from University module (Predictive Analytics). Features of houses and how it affects their housing price
 
-##### PDF
-  A PDF report from my Predictive Analytics assignment. Contains graphs, and reasoning based on findings from the data.
+## PDF
+Report from my Predictive Analytics assignment. Contains graphs, and reasoning based on findings from the data.
   > Histograms
   > Bar Charts
   > Boxplots
